@@ -1,7 +1,7 @@
 Итоговый проект по автоматизации тестирования Skillfactory QAP
 
 Требования по проекту:
-https://docs.google.com/document/d/1AIJXaVuk8saME42_e_zyjkxzlQ4S80MZ/edit?usp=sharing&ouid=116566558924719834956&rtpof=true&sd=true
+[Google Docs](https://docs.google.com/document/d/1AIJXaVuk8saME42_e_zyjkxzlQ4S80MZ/edit?usp=sharing&ouid=116566558924719834956&rtpof=true&sd=true)
 
 Объект тестирования: 
 https://b2c.passport.rt.ru
@@ -13,7 +13,7 @@ https://b2c.passport.rt.ru
 4. Оформить описание обнаруженных дефектов. Если дефекты не обнаружены, то подумайте и опишите 3 потенциально возможных дефекта на данном ресурсе.
 
 Установка необходимых библиотек:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Запуск тестов из терминала: 
-python -m pytest -v --driver Chrome --driver-path chromedriver.exe data/tests.py
+`python -m pytest -v --driver Chrome --driver-path chromedriver.exe data/tests.py`
