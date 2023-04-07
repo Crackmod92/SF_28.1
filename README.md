@@ -4,7 +4,7 @@
 [Google Docs](https://docs.google.com/document/d/1AIJXaVuk8saME42_e_zyjkxzlQ4S80MZ/edit?usp=sharing&ouid=116566558924719834956&rtpof=true&sd=true)
 
 Объект тестирования: 
-https://b2c.passport.rt.ru
+[Ростелеком](https://b2c.passport.rt.ru)
 
 Задания по тестированию раздела:
 1. Протестировать требования.
