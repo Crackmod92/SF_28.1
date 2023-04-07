@@ -1,5 +1,5 @@
 class Settings:
-    chrome_driver = "/chromedriver.exe"
+    chrome_driver = "data/chromedriver.exe"
 
     base_url = 'https://b2c.passport.rt.ru'
     valid_email = 'xowejec578@djpich.com'
